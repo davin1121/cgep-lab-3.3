@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+tfplan
+.terraform.lock.hcl
+evidence/lab-3-3/opa-test-results.json

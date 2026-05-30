@@ -1,0 +1,92 @@
+﻿[
+  {
+    "location": {
+      "file": "policies\\tests\\sc28_encryption_test.rego",
+      "row": 49,
+      "col": 1
+    },
+    "package": "data.compliance.sc28_test",
+    "name": "test_no_sse_fails",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\ac3_no_public_test.rego",
+      "row": 71,
+      "col": 1
+    },
+    "package": "data.compliance.ac3_test",
+    "name": "test_open_sg_fails",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\sc28_encryption_test.rego",
+      "row": 43,
+      "col": 1
+    },
+    "package": "data.compliance.sc28_test",
+    "name": "test_aes256_fails",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\cm6_required_tags_test.rego",
+      "row": 36,
+      "col": 1
+    },
+    "package": "data.compliance.cm6_test",
+    "name": "test_complete_passes",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\sc28_encryption_test.rego",
+      "row": 41,
+      "col": 1
+    },
+    "package": "data.compliance.sc28_test",
+    "name": "test_compliant_passes",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\ac3_no_public_test.rego",
+      "row": 65,
+      "col": 1
+    },
+    "package": "data.compliance.ac3_test",
+    "name": "test_public_bucket_fails",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\ac3_no_public_test.rego",
+      "row": 63,
+      "col": 1
+    },
+    "package": "data.compliance.ac3_test",
+    "name": "test_compliant_bucket_passes",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\cm6_required_tags_test.rego",
+      "row": 44,
+      "col": 1
+    },
+    "package": "data.compliance.cm6_test",
+    "name": "test_no_tags_fails",
+    "duration": 1546200
+  },
+  {
+    "location": {
+      "file": "policies\\tests\\cm6_required_tags_test.rego",
+      "row": 38,
+      "col": 1
+    },
+    "package": "data.compliance.cm6_test",
+    "name": "test_partial_fails",
+    "duration": 1853900
+  }
+]
